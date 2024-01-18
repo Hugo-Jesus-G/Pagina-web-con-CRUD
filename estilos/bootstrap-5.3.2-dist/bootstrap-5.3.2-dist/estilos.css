@@ -1,0 +1,57 @@
+
+.bordesR{
+
+
+border-radius: 0px 50px 50px 0px;
+
+}
+.bordesI{
+
+
+    border-radius: 50px 0px 0px 50px;
+    
+    }
+.imagen{
+
+
+background-image: url(imagenes/marvel1.jpg);
+
+background-position: center center;
+background-size: cover;
+}
+
+
+
+
+.fondoRegistro{
+
+
+
+    background: linear-gradient(to right,rgb(155, 41, 41),rgb(14, 80, 156));
+
+}
+.fondoLogin{
+
+    background: linear-gradient(to right,rgb(41, 87, 155),rgb(9, 31, 155));
+
+
+}
+.imagenRegistro{
+
+
+    background-image: url(imagenes/marvel2.jpg);
+
+    background-position: center center;
+
+    background-size: cover;
+
+
+}
+
+.config{
+
+    background: linear-gradient(to right,rgb(197, 46, 46),rgb(14, 17, 214));
+
+
+}
+

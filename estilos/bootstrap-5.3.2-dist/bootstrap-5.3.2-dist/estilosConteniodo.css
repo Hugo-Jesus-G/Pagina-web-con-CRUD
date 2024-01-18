@@ -1,0 +1,246 @@
+.logo {
+  height: 50px;
+  width: auto;
+}
+
+.textbl {
+  color: white;
+}
+
+.carru {
+
+  max-height: 500px;
+
+}
+
+.tarjeta_trans {
+  border: 10px solid #000000;
+  border-radius: 50px;
+  background-color: rgb(0, 0, 0);
+  color: white;
+
+}
+
+body {
+  /* Define el fondo degradado rojo */
+  background: linear-gradient(#201d1d, #FF0000);
+  color: white;
+  font-family: 'Comic Sans MS', cursive;
+
+
+}
+
+.principal{
+
+  background: linear-gradient(#201d1d, #FF0000);
+  color: white;
+  font-family: 'Comic Sans MS', cursive;
+
+
+}
+.comic{
+
+  background: linear-gradient(#201d1d, #0826d3);
+  color: white;
+  font-family: 'Comic Sans MS', cursive;
+
+
+}
+.spider{
+
+  background: linear-gradient(#0826d3, #700101);
+  color: white;
+  font-family: 'Comic Sans MS', cursive;
+
+
+}
+.stark{
+
+  background: linear-gradient(#612904, #000000);
+  color: white;
+  font-family: 'Comic Sans MS', cursive;
+
+
+}
+
+.apie{
+
+  background: linear-gradient(#080808, #0940a5);
+  color: white;
+  font-family: 'Comic Sans MS', cursive;
+
+
+}
+.scarlet{
+
+  background: linear-gradient(#000000, rgb(173, 4, 165));
+  color: white;
+  font-family: 'Comic Sans MS', cursive;
+
+
+}
+.universo{
+
+  background: linear-gradient(#000000, rgb(41, 0, 0));
+  color: white;
+  font-family: 'Comic Sans MS', cursive;
+
+
+}
+.loki{
+
+  background: linear-gradient(#046677, rgb(0, 0, 0));
+  color: white;
+  font-family: 'Comic Sans MS', cursive;
+
+
+}
+.thor{
+
+
+  background: linear-gradient(#280550, rgb(149, 148, 155));
+  color: white;
+  font-family: 'Comic Sans MS', cursive;
+
+
+}
+
+.botoncitos {
+  background-color: #9e0606;
+  /* Reemplaza 'yourColor' con el color deseado */
+  border-color: #000000;
+  /* Puedes ajustar el color del borde si es necesario */
+  color: #fff;
+  /* Ajusta el color del texto para que sea legible en el nuevo fondo */
+}
+
+.lienzofuera {
+  color: white;
+  background-color: #bd0505;
+  /* Reemplaza 'yourColor' con el color deseado */
+  border: 10px solid #000000;/
+}
+
+
+
+
+.paraimagenes {
+  /* depende al formato */
+  border-radius: 50px;
+  width: 100%;
+  display: block;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  flex: 1;
+
+}
+
+.paraimagenes2 {
+  /* depende al formato, solo se cambia un lado */
+  border-radius: 50px;
+  width: 100%;
+  display: block;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  flex: 1;
+
+}
+
+.adapta {
+  /* para imagenes cuadradas */
+  border-radius: 40px;
+  margin-top: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  width: 100%;
+  height: 400px;
+}
+
+.adapta2 {
+  /* para imagenes retangulares largos */
+  border-radius: 40px;
+  margin-top: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  width: 600px;
+  height: 200px;
+}
+
+.adapta3 {
+  /* para imagenes retangulares normal */
+  border-radius: 40px;
+  margin-top: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  width: 100%;
+  height: 300px;
+
+}
+
+
+.pie {
+
+
+  background-color: #000000;
+}
+
+.logo {
+
+  margin-top: 0;
+  width: 200px;
+  height: 100px;
+
+
+}
+
+.enlaces {
+
+
+  color: #fff;
+}
+
+.enlaces:hover {
+
+  background-color: #bd0505;
+
+}
+
+.bordes {
+
+
+  border: 1px solid blue;
+}
+
+.centrado {
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+.tarjeta_info {
+
+  background-color: rgb(0, 0, 0);
+  color: white;
+  border-radius: 50px;
+ 
+  
+
+}
+/*]
+body h5{
+
+
+font-size: 20px;
+color: #000000;
+
+}*/
